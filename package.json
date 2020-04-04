@@ -1,0 +1,27 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "mocha || true"
+  },
+  "author": "Jake Loew",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "babel-loader": "^8.1.0",
+    "chai": "^4.2.0",
+    "prompt": "^1.0.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "mocha": "^7.1.1",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.9.0",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
