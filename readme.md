@@ -4,7 +4,7 @@ Write a function that accepts a tic-tac-toe board as a parameter and evaluates t
 
 Return value:
 
-- `undefined` if the game is a draw
+- `undefined` if the game is a in play (not a draw + no winner)
 - `"draw"` if the game is a draw
 - `"x"` or `"o"` if the respective player has won
 
