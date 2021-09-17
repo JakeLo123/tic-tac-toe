@@ -8,9 +8,11 @@ Return value:
 - `"draw"` if the game is a draw
 - `"x"` or `"o"` if the respective player has won
 
+```
 function evaluateTicTacToe(board: string[][]): "x" | "o" | "draw" | undefined {
 //
 }
+```
 
 ## types
 
