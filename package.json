@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "write a funciton that evaluates a tic-tac-toe board",
+  "main": "tic-tac-toe.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
